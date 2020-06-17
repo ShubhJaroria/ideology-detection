@@ -1,0 +1,13 @@
+*.DS_Store
+*.DS_Store?
+*.ipynb_checkpoints/
+*.__pycache__/
+*.prev/
+.classifier/trees/
+.classifier/logs/other/
+.classifier/models/other/
+.data/other/
+.finetune-word2vec/w2v-models/GoogleNews-vectors-negative300.bin
+.finetune-word2vec/w2v-models/GoogleNews-vectors-negative300.bin.gz
+.make-collections/refine-articles/stanford-corenlp-full-2018-10-05/
+
