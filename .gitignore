@@ -1,10 +1,10 @@
 *.DS_Store
 *.DS_Store?
-*.ipynb_checkpoints/
-**.__pycache__/
-**.other/
+*.ipynb_checkpoints/*
+**.__pycache__/*
+**.other/*
 **.GoogleNews-vectors-negative300.bin
 **.GoogleNews-vectors-negative300.bin.gzs
-*.make-article-collections/refine-articles/stanford-corenlp-full-2018-10-05/
+*.make-article-collections/refine-articles/stanford-corenlp-full-2018-10-05/*
 
 
