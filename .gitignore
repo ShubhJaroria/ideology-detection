@@ -7,5 +7,6 @@
 **.other/
 **.GoogleNews-vectors-negative300.bin
 **.GoogleNews-vectors-negative300.bin.gzs
-**.stanford-corenlp-full-2018-10-05/
+*.make-article-collections/refine-articles/stanford-corenlp-full-2018-10-05/
+
 
