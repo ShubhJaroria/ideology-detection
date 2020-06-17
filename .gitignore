@@ -2,8 +2,6 @@
 *.DS_Store?
 *.ipynb_checkpoints/
 **.__pycache__/
-**.prev/
-**.trees/
 **.other/
 **.GoogleNews-vectors-negative300.bin
 **.GoogleNews-vectors-negative300.bin.gzs
