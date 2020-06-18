@@ -3,8 +3,8 @@
 *.ipynb_checkpoints/
 **.__pycache__/
 *.other/*
-*.GoogleNews-vectors-negative300.bin
-*.GoogleNews-vectors-negative300.bin.gzs
+finetune-word2vec/**/GoogleNews-vectors-negative300.bin
+finetune-word2vec/**/GoogleNews-vectors-negative300.bin.gzs
 make-article-collections/**/stanford-corenlp-full-2018-10-05/
 
 
