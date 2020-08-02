@@ -1,2 +1,4 @@
-# ideology-detection
+# Ideology Detection in Indian Mass Media
 Masters' Thesis | IIT Delhi
+
+Ideological biases in the mass media can shape public opinion. In this study, we aim to understand ideological bias in the Indian mass media, in terms of the coverage it provides to statements made by prominent people on key economic and technological policies. We build an end-to-end system that starts with a news article and parses it to obtain statements made by people in the article; on these statements, we apply a Recursive Neural Network based model to detect whether the statement expresses an ideological bias or is neutral, and if it does then classify the stance. We do this for two kinds of bias detection: for economic policies we classify whether the statements express a pro or anti slant about the policy, and for technology policies we classify whether the statements are positive or they express skepticism about the technology policy. The end-to-end system development methodology described by us can be applied to other domains as well, and can serve as a basis to contrast social media self-expression by prominent people with how the mass media portrays them. 
